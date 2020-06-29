@@ -1,2 +1,3 @@
 # hello-world
-The first day of learning how to use GitHub
+学习如何使用GitHub的第一天              
+i am a coder
